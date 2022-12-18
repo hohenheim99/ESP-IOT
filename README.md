@@ -5,9 +5,7 @@ Components:
 -Ultrasonic Sensor HC-SR04
 -ESP32
 
-Work enviorment: 
--Visual Studio Code
-  -PlatformIO IDE
+Work enviorment: Visual Studio Code with PlatformIO IDE
 
 Libraries:
 
