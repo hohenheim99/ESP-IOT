@@ -1,6 +1,6 @@
 # ESP-IOT
 
-- IoT project -
+IoT project
 Components:
 -Ultrasonic Sensor HC-SR04
 -ESP32
